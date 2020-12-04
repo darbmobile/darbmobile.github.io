@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Sam Krauser</title>
+ <link href="/atom.xml" rel="self"/>
+ <link href="https://getpoole.com/"/>
+ <updated>2020-12-04T21:22:58+10:00</updated>
+ <id>https://getpoole.com</id>
+ <author>
+   <name>Sam Krauser</name>
+   <email>sam@samkrauser.com.au</email>
+ </author>
+
+ 
+
+</feed>
