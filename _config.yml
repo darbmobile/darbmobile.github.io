@@ -33,13 +33,12 @@ sass:
 # Specify the author for blog posts
 author:
   name: Sam Krauser
-  url: https://twitter.com/mdo
   email: sam@samkrauser.com.au
 
 # Custom vars
 version: 3.0.0
 
 # Navbar page list
-# nav:
-#  - title: Movies
-#    url: /archive
+nav:
+  - title: Posters
+    url: /movie-posters
