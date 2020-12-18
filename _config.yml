@@ -40,5 +40,5 @@ version: 3.0.0
 
 # Navbar page list
 nav:
-  - title: Posters
+  - title: Poster Design
     url: /movie-posters
