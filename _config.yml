@@ -2,7 +2,7 @@
 title: Sam Krauser
 url: "https://samkrauser.com.au"
 paginate: 1
-baseurl: "/"
+baseurl: ""
 permalink: pretty
 
 # Gems
