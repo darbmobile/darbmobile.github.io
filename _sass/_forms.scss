@@ -1,0 +1,27 @@
+
+
+
+input, textarea {
+	font: inherit;
+	width: 100%;
+	padding: var(--spacer);
+  	margin-bottom: var(--spacer);
+  	border-radius: var(--border-radius);
+  	border: none;
+  	background-color: var(--gray-700);
+  	color: var(--gray-100);
+}
+
+input:focus, 
+textarea:focus {
+	outline: none;
+}
+
+input[type=submit] {
+	cursor: pointer;
+}
+
+textarea{
+	height: 20rem;
+}
+
