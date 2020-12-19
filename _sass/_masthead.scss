@@ -26,5 +26,13 @@
 .nav {
   float: right;
   line-height: 1.25rem;
+  
+}
+
+.nav > small {
   text-decoration: underline;
+}
+
+.nav > small:last-of-type {
+  margin-left: 0.5rem;
 }

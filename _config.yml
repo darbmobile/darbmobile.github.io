@@ -42,3 +42,5 @@ version: 3.0.0
 nav:
   - title: Poster Design
     url: /movie-posters
+  - title: Blog
+    url: /blog

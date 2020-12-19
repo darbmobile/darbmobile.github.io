@@ -11,4 +11,14 @@ I also commonly use [Open Foundry](https://open-foundry.com) for typefaces. They
 
 ---
 
-{{site.categories.posters}}
+ {% for post in site.categories.posters %}
+  <article>
+    <h2>
+      <a href="{{ post.url }}" class="post-title">
+        {{ post.title }}
+      </a>
+    </h2>
+    {{ post.content }}
+  </article>
+  <br>
+{% endfor %}
