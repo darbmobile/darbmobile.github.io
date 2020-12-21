@@ -13,3 +13,25 @@ If you'd like to get in contact, you can using the form below.
   <textarea name="message" placeholder="Your message"></textarea>
   <input type="submit" value="Send">
 </form>
+
+---
+
+# Archive
+
+### Blog
+
+<div>
+  {% for post in site.categories.blog %}
+      <small class="small-date">{{ post.date | date: "%Y-%m-%d" }} »</small> <a href="{{ post.url }}">{{ post.title }}</a>
+      <br>
+  {% endfor %}
+</div>
+
+### Poster Designs
+
+<div>
+  {% for post in site.categories.posters %}
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      <br>
+  {% endfor %}
+</div>
