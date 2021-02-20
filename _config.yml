@@ -42,5 +42,7 @@ version: 3.0.0
 nav:
   - title: Poster Design
     url: /movie-posters
+  - title: Folio
+    url: /assets/folio/samkrauser_folio.pdf
   - title: Blog
     url: /blog
